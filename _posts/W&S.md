@@ -3,7 +3,7 @@ Bonjour,
 Aujourd'hui, je vais aborder toutes les informations disponibles liées à la série *Welsh & Shedar* qu'Ankama avait commencé à développer mais qu'aucune chaîne de télévision n'a voulu acheter. 
 Pour la petite histoire c'est un article que j'avais commencé à écrire en juin 2018 et que je n'avais finalement jamais terminé. Vaut mieux tard que jamais ;)
 
-
+<br><br><br>
 # Genèse du projet et informations techniques
 Dans un post de décembre 2014 sur le [forum du site Catsuka](https://www.catsuka.com/interf/forum/viewtopic.php?p=401923#p401923), 
 Tot évoquait la genèse du projet et donnait quelques informations techniques.  
@@ -190,7 +190,7 @@ Voici tout ce que j’ai pu recueillir comme informations concernant l’histoir
 
 Je ne sais pas pour vous, mais tout ceci me hype énormément et me fait désespérément envie de voir un jour cette série sur nos écrans.
 
-
+<br><br><br>
 # Welsh & Shedar sur nos écrans ?
 Je vais terminer cet article par un point concernant les informations disponibles concernant une possible diffusion de la série.
 
@@ -220,9 +220,9 @@ En effet, en 2017, Fabrice Nzinizi (directeur artistique de la saison 3 de Wakfu
 
 <br><br><br>
 
-J'en ai terminé avec cet article.
-J'espère qu'il vous a plu. 
-J vous laisse avec quelques visuels concernant la conception du trailer, ainsi que quelques images inédites : :
+J'en ai terminé avec cet article.  
+J'espère qu'il vous a plu.   
+Je vous laisse avec quelques visuels concernant la conception du trailer, ainsi que quelques images inédites :
 https://www.behance.net/gallery/55407417/Welsh-Shedar-projet-Ankama-2012
 
 <br>
