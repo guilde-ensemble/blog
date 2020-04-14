@@ -22,7 +22,7 @@ Dans les plans inférieurs, on compte la [Shukrute](https://dofus-rp.fandom.com/
 <br><br><br>
 
 Cet univers est developpé dans plusieurs oeuvres d'Ankama, dont vous pourrez la liste ci-dessous.
-
+<br><br>
 
 ## Jeux vidéos
 ### Âge des Dofus 
@@ -48,11 +48,11 @@ Cet univers est developpé dans plusieurs oeuvres d'Ankama, dont vous pourrez la
  
 ### Hormonde 
 Jeux en lien avec le Krosmoz, qui ont lieu dans une dimension différente du monde des Douze donc hors chronologie
-- [ARENA](https://fr.wikipedia.org/wiki/Arena_(jeu_vid%C3%A9o,_2010) : en bêta à partir de 2006, sorti officielle en 2010 sur PC, arrêt en 2014
+- [ARENA](https://fr.wikipedia.org/wiki/Arena_(jeu_vid%C3%A9o,_2010)) : en bêta à partir de 2006, sorti officielle en 2010 sur PC, arrêt en 2014
 - [KROSMASTER](http://www.krosmaster.com/fr) : sorti en 2012 sur PC et en plateau physique 
 - BOUFBOWL : sorti sur navigateur, arrêté en 2014
 - [KROSMAGA](https://www.krosmaga.com/fr) alpha en 2015, beta en 2016, officielle en 2017 sur PC/mobile/tablette
-
+<br><br>
 
 
 ## Animation
@@ -78,6 +78,7 @@ série de 52 épisode de 13 minutes, pour les enfants, diffusée entre 2013 et 2
   Saison 3 de 13 épisodes de 24min diffusée en 2017
 - MINI WAKFU 
   27 épisodes de 2 minutes qui étaient diffusés juste après chaque épisode de la saison 1
+<br><br>
 
 
 ## Edition
