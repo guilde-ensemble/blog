@@ -89,6 +89,7 @@ Voici la liste des mangas/BD/comics en lien avec l'univers du Krosmoz :
 - Dofus artbooks (6 tomes), artbooks sur le jeu vidéo Dofus 
   - Dofus, le guide officiel, de Ylan de Raspide, livre d'aide sur le jeu
   - Dofus, livre 1 : Julith, artbook sur le film d'animation *Dofus, livre 1 : Julith*. 
+  
 #### Bandes dessinées 
 - Dofus Quest, les mains d’Eniripsa (1 tome sorti en 2008)  
   Quête de deux Eniripsas dont le destin va se mêler aux machinations des dieux
@@ -99,6 +100,7 @@ Voici la liste des mangas/BD/comics en lien avec l'univers du Krosmoz :
   Une vieille Eniripsa a fait de sa maison un refuge pour les familiers blessés ou perdus.
 - Dofus : Julith et Jahash (1 tome sorti en 2016, 1 deuxième est prévu mais n'a toujours pas vu le jour) par Tot et Ancestral Z.            Raconte les débuts des personnages de Julith et Jahash.
 - Les Dessous de Dofus (1 tome), de Mary Pumpkins, avec des histoires courtes. 
+
 #### Mangas 
 - Dofus (26 tomes sont sortis depuis 2005 sur les 30 de prévus ; le 27ème sort en 2020), scénarisé par Tot et illustrée par Ancestral Z.    Raconte les aventures d'Arty et de Goultard à la recherche des Dofus. 
 - Dofus Arena (4 tomes), scénarisé par Nicolas Devos et dessinée par Jérôme Bretzner.   
@@ -107,6 +109,7 @@ Relate l'histoire de Pym, futur sacrieur, contre les démons des heures.
 A chaque tome est raconté l'histoire d'un monstre de l'univers de Dofus (Chêne Mou, Dragon Cochon, Moon , etc...) 
 - Ogrest (3 tomes, le quatrième doit sortir en 2020, 5 sont prévus au total), de Mig.   
 Raconte l'histoire d'Ogrest, parle de la Fratrie des Oubliés et tout et tout. 
+
 #### Romans (Bayard Jeunesse) 
 - Dofus : Aux trésors de Kerubim, de Christophe Lambert (5 tomes)
 - Dofus, de Halden et Tot (6 tomes)   
@@ -126,6 +129,7 @@ Raconte l'histoire de chacun des Dofus Primordiaux
   - Tome 2 : Percimol (sorti en 2010)
   - Tome 3 : Justice (sorti en 2013)
   - Tome 4 à 6 : Tangomango (sortis entre 2013 et 2014)
+  
 ####Mangas 
 - Wakfu (5 tomes sont sortis), l'histoire se situe après la saison 2 mais avant les 3 OAV. 
 ####Les Comics 
@@ -135,6 +139,7 @@ Il raconte les débuts de Kriss la Krasse au sport du Boufbowl, dont il deviendr
 Il raconte les débuts des frères Remington et Grany Smisse, qui deviendront deux des plus grands Roublards du Monde des Douze. L'histoire se découpe en 3 arcs de chacun 4 comics. Le deuxième arc raconte l'histoire du Dofus Blanc (Dofus Primordial). 
 - Maskemane (12 comics parus entre 2012 et 2013)    
 Raconte l'histoire de Maskemane, le dernier zobal qui est traqué pour ses masques. 
+
 #### Romans (Bayard Jeunesse) 
 - Wakfu (9 tomes parus entre 2013 et 2015)    
 Tout comme la BD Wakfu, ces 9 tomes racontent des aventures de la Confrérie du Tofu entre les épisodes 13 et 14 de la saison 1 de Wakfu.
