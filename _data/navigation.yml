@@ -1,0 +1,7 @@
+main:
+  - title: "Le Krosmoz"
+    url: /krosmoz/
+  - title: "Posts"
+    url: /posts/
+  - title: "A propos"
+    url: /about/   
