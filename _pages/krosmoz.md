@@ -130,7 +130,7 @@ Raconte l'histoire de chacun des Dofus Primordiaux
   - Tome 3 : Justice (sorti en 2013)
   - Tome 4 à 6 : Tangomango (sortis entre 2013 et 2014)
   
-####Mangas 
+#### Mangas 
 - Wakfu (5 tomes sont sortis), l'histoire se situe après la saison 2 mais avant les 3 OAV. 
 ####Les Comics 
 - Boufbowl (4 comics sortis en 2011) de Grelin et Maxe L'Hermenier.   
