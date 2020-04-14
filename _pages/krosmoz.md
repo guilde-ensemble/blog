@@ -7,13 +7,24 @@ permalink: /krosmoz/
 
 
 ## Qu’est-ce que le Krosmoz ?
+Le site https://dofus-rp.fandom.com/fr/wiki/Wiki_Role_Play_Dofus en donne une très bonne [définition](https://dofus-rp.fandom.com/fr/wiki/Krosmoz) :  
 
-Le Krosmoz est BLABLABLA.
-<br><br>
+Le Krosmoz est le nom de l'univers dont fait partie le [monde des Douze](https://dofus-rp.fandom.com/fr/wiki/Monde_des_Douze). Il fut créé par la première danse de la [déesse Eliatrope](https://dofus-rp.fandom.com/fr/wiki/D%C3%A9esse_%C3%A9liatrope) et du [Grand Dragon](https://dofus-rp.fandom.com/fr/wiki/Grand_dragon). Il est composé de plusieurs plans superposés les uns sur les autres : 
+
+![](https://vignette.wikia.nocookie.net/dofus-rp/images/3/32/Krosmoz.png/revision/latest?cb=20151205100354&path-prefix=fr)
+
+D'abord il y a [Incarnam](https://dofus-rp.fandom.com/fr/wiki/Incarnam) le plan où les âmes s'incarnent dans le Krosmoz.  
+Puis vient l'[Inglorium](https://dofus-rp.fandom.com/fr/wiki/Inglorium) la demeure des dieux : c'est là que se trouvent les dimensions divines.  
+On trouve ensuite le plan Astral où les mages se rendent pendant leurs transes et l'[Ether](https://dofus-rp.fandom.com/fr/wiki/Ether), la décharge cosmique, le plan des rêves qui sert de délimitation à notre plan. 
+C'est dans l'Ether que se trouve la [Pyramide Ocre](https://dofus-rp.fandom.com/fr/wiki/Pyramide_ocre) construite par [Prosperus Elementor](https://dofus-rp.fandom.com/fr/wiki/Prosperus_Elementor) (le premier huppermage), ainsi que l'[Arbre des Vagabonds](https://dofus-rp.fandom.com/fr/wiki/Arbre_des_vagabonds), un kalyptus géant qui sert de refuge aux voyageurs. 
+En dessous, le plan matériel est rempli de planètes et de galaxies ; c'est ici que se trouve le monde des Douze.  
+Dans les plans inférieurs, on compte la [Shukrute](https://dofus-rp.fandom.com/fr/wiki/Shukrute), le royaume des  démons, et à côté de celle-ci, [Externam](https://dofus-rp.fandom.com/fr/wiki/Externam) où les âmes usagées sont expulsées du Krosmoz.
+<br><br><br>
+
+Cet univers est developpé dans plusieurs oeuvres d'Ankama, dont vous pourrez la liste ci-dessous.
 
 
-## JEUX VIDEOS
-
+## Jeux vidéos
 ### Âge des Dofus 
 - [MMORPG DOFUS](https://www.dofus.com/fr) : Jeu sorti en 2004 sur PC, version rétro en 2019 
 - DOFUS POCKET : Application (plus disponible depuis 2012) qui permettait de gérer ses familiers
@@ -27,7 +38,7 @@ Le Krosmoz est BLABLABLA.
 ### Ère du Wakfu 
 - [MMORPG WAKFU](https://www.wakfu.com/fr/) : bêta en 2008, sorti en 2012 sur PC
 - [WAKFU LES GARDIENS](https://fr.wikipedia.org/wiki/Wakfu_:_Les_Gardiens) (1 et 2) : sorti respectivement en 2009 et 2011 sur PC, arrétés en 2014. Servaient de promotion pour les saisons 1 et 2 de Wakfu
-- [WAKFU TCG] : jeu de cartes à collectionner sorti à partir de 2009 et arrêté en 2011.
+- WAKFU TCG : jeu de cartes à collectionner sorti à partir de 2009 et arrêté en 2011.
   Le site [Wakfupedia](http://www.wakfupedia.com/fr/sets) répertoriait toutes les cartes mais il a fermé :'(
 - [WAKFU RAIDERS](https://fr.wikipedia.org/wiki/Wakfu_Raiders) : sorti en 2015 sur mobile, arrêté en 2016 
 - WAKFU : LA CONFRERIE (jeu mobile sorti en 2018 pour la promotion de la saison 3 de Wakfu) 
@@ -76,8 +87,8 @@ Voici la liste des mangas/BD/comics en lien avec l'univers du Krosmoz :
 ### [Âge des Dofus](http://www.ankama-editions.com/fr/univers/dofus) 
 #### les Artbooks 
 - Dofus artbooks (6 tomes), artbooks sur le jeu vidéo Dofus 
-→ Dofus, le guide officiel, de Ylan de Raspide, livre d'aide sur le jeu ;
-→ Dofus, livre 1 : Julith, artbook sur le film d'animation Dofus, livre 1 : Julith. 
+  - Dofus, le guide officiel, de Ylan de Raspide, livre d'aide sur le jeu ;
+  - Dofus, livre 1 : Julith, artbook sur le film d'animation Dofus, livre 1 : Julith. 
 #### Bandes dessinées 
 - Dofus Quest, les mains d’Eniripsa (1 tome sorti en 2008) Quête de deux Eniripsas dont le destin va se mêler aux machinations des dieux
 - Dofus Pandala (en 3 tomes sortis en 2007, 2008 et 2009), scénarisé par Tot et illustré à la peinture par Bertrand Hottin. L'histoire d'un jeune Pandawa et de son village détruit
