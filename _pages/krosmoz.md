@@ -32,8 +32,7 @@ Cet univers est developpé dans plusieurs oeuvres d'Ankama, dont vous pourrez la
 - [DOFUS POGO](http://web.archive.org/web/20190226235749/http://www.dofus-le-film.com/fr/dofus-pogo) : Jeu mobile sorti en 2016 pour accompagner la sortie du film Dofus
 - [DOFUS TOUCH](https://www.dofus-touch.com/fr) : Jeu mobile/tablette sorti en 2016, reprise du jeu PC à partir de la MAJ 2.14
 - [DOFUS PETS](http://www.dofus-pets.com/fr) : Jeu mobile sorti en 2017
-- [DOFUS DONJONS](http://web.archive.org/web/20190815122521/https://dofus-donjons.com/) : Projet d'un Mode PVM dont le developpement a commencé en 2018 et qui a été arrêté la même année
-  Le site a malheureusement fermé.
+- [DOFUS DONJONS](http://web.archive.org/web/20190815122521/https://dofus-donjons.com/) : Projet d'un Mode PVM dont le developpement a commencé en 2018 et qui a été arrêté la même année. Le site a malheureusement fermé.
 
 ### Ère du Wakfu 
 - [MMORPG WAKFU](https://www.wakfu.com/fr/) : bêta en 2008, sorti en 2012 sur PC
@@ -59,24 +58,24 @@ Jeux en lien avec le Krosmoz, qui ont lieu dans une dimension différente du mon
 Voici la liste des séries/films en lien avec l'univers du Krosmoz (les teasers des différents jeux vidéos ne sont pas répertoriés ici) :
 
 ### Âge des Dofus 
-- [GOULTARD LE BARBARE](https://www.youtube.com/watch?v=Tehf1lIuSBA )
-  Prototype présenté par Ankama à France Télévision afin d'essayer de leur vendre une série, ce sera Wakfu.
+- [GOULTARD LE BARBARE](https://www.youtube.com/watch?v=Tehf1lIuSBA)  
+  Prototype présenté par Ankama à France Télévision afin d'essayer de leur vendre une série, ce sera Wakfu.  
   (En titre de la vidéo il y a écrit "Wakfu Goultard le barbare" mais l'action se passe bien à l'âge des Dofus et non de Wakfu !)
-- [AUX TRESORS DE KERUBIM](https://www.dofus.com/fr/animation/univers) 
+- [AUX TRESORS DE KERUBIM](https://www.dofus.com/fr/animation/univers)  
 série de 52 épisode de 13 minutes, pour les enfants, diffusée entre 2013 et 2014 
-- [DOFUS LIVRE 1 : JULITH](http://www.dofus-le-film.com/fr) : film de 108 minutes sorties en 2016
+- [DOFUS LIVRE 1 : JULITH](http://www.dofus-le-film.com/fr) : film de 108 minutes sorties en 2016  
   A titre d'info, voici à quoi ressemblait les toutes premières recherches du film : https://www.youtube.com/watch?v=1SkWm0gan20
-- [WELSH & SHEDAR](https://www.youtube.com/watch?v=PK5q0oGRzTU)
+- [WELSH & SHEDAR](https://www.youtube.com/watch?v=PK5q0oGRzTU)  
  Cette série a été présenté à France Télévision mais n'a pas été retenue (FT voulant des épisodes pouvant se diffuser dans n'importe quelle ordre). C'est la série Aux Trésors de Kerubim qui a été commandé à la place. 
  
  
 ### Ère du Wakfu 
-- WAKFU la Série
-  Saison 1 de 26 épisodes de 24min diffusée entre 2008 et 2010 + Épisode spécial consacré à Nox 
-  Saison 2 de 26 épisodes de 24min diffusée entre 2011 et 2012 + Épisode spécial consacré à Ogrest
-  3 OAV de 45min diffusés en 2014
-  Saison 3 de 13 épisodes de 24min diffusée en 2017
-- MINI WAKFU 
+- WAKFU la Série  
+  Saison 1 de 26 épisodes de 24min diffusée entre 2008 et 2010 + Épisode spécial consacré à Nox   
+  Saison 2 de 26 épisodes de 24min diffusée entre 2011 et 2012 + Épisode spécial consacré à Ogrest  
+  3 OAV de 45min diffusés en 2014  
+  Saison 3 de 13 épisodes de 24min diffusée en 2017  
+- MINI WAKFU  
   27 épisodes de 2 minutes qui étaient diffusés juste après chaque épisode de la saison 1
 <br><br>
 
@@ -88,23 +87,30 @@ Voici la liste des mangas/BD/comics en lien avec l'univers du Krosmoz :
 ### [Âge des Dofus](http://www.ankama-editions.com/fr/univers/dofus) 
 #### les Artbooks 
 - Dofus artbooks (6 tomes), artbooks sur le jeu vidéo Dofus 
-  - Dofus, le guide officiel, de Ylan de Raspide, livre d'aide sur le jeu ;
-  - Dofus, livre 1 : Julith, artbook sur le film d'animation Dofus, livre 1 : Julith. 
+  - Dofus, le guide officiel, de Ylan de Raspide, livre d'aide sur le jeu
+  - Dofus, livre 1 : Julith, artbook sur le film d'animation *Dofus, livre 1 : Julith*. 
 #### Bandes dessinées 
-- Dofus Quest, les mains d’Eniripsa (1 tome sorti en 2008) Quête de deux Eniripsas dont le destin va se mêler aux machinations des dieux
-- Dofus Pandala (en 3 tomes sortis en 2007, 2008 et 2009), scénarisé par Tot et illustré à la peinture par Bertrand Hottin. L'histoire d'un jeune Pandawa et de son village détruit
+- Dofus Quest, les mains d’Eniripsa (1 tome sorti en 2008)  
+  Quête de deux Eniripsas dont le destin va se mêler aux machinations des dieux
+- Dofus Pandala (en 3 tomes sortis en 2007, 2008 et 2009), scénarisé par Tot et illustré à la peinture par Bertrand Hottin.   
+  L'histoire d'un jeune Pandawa et de son village détruit.
 - Dofus Heroes (collectif) : deux tomes sortis en 2013 et consacrés à la jeunesse de Kerubim.
-- Dofus Pets (2 tomes sortis en 2015 et 2016) Une vieille Eniripsa a fait de sa maison un refuge pour les familiers blessés ou perdus
-- Dofus : Julith et Jahash (1 tome sorti en 2016, 1 deuxième est prévu mais n'a toujours pas vu le jour) par Tot et Ancestral Z. Raconte les débuts des personnages de Julith et Jahash.
+- Dofus Pets (2 tomes sortis en 2015 et 2016)   
+  Une vieille Eniripsa a fait de sa maison un refuge pour les familiers blessés ou perdus.
+- Dofus : Julith et Jahash (1 tome sorti en 2016, 1 deuxième est prévu mais n'a toujours pas vu le jour) par Tot et Ancestral Z.            Raconte les débuts des personnages de Julith et Jahash.
 - Les Dessous de Dofus (1 tome), de Mary Pumpkins, avec des histoires courtes. 
 #### Mangas 
-- Dofus (26 tomes sont sortis depuis 2005 sur les 30 de prévus ; le 27ème sort en 2020), scénarisé par Tot et illustrée par Ancestral Z. Raconte les aventures d'Arty et de Goultard à la recherche des Dofus. 
-- Dofus Arena (4 tomes), scénarisé par Nicolas Devos et dessinée par Jérôme Bretzner. Relate l'histoire de Pym, futur sacrieur, contre les démons des heures. 
-- Dofus Monster (12 tomes), collectif, A chaque tome est raconté l'histoire d'un monstre de l'univers de Dofus (Chêne Mou, Dragon Cochon, Moon , etc...) 
-- Ogrest (3 tomes, le quatrième doit sortir en 2020, 5 sont prévus au total), de Mig. Raconte l'histoire d'Ogrest, parle de la Fratrie des Oubliés et tout et tout. 
+- Dofus (26 tomes sont sortis depuis 2005 sur les 30 de prévus ; le 27ème sort en 2020), scénarisé par Tot et illustrée par Ancestral Z.    Raconte les aventures d'Arty et de Goultard à la recherche des Dofus. 
+- Dofus Arena (4 tomes), scénarisé par Nicolas Devos et dessinée par Jérôme Bretzner.   
+Relate l'histoire de Pym, futur sacrieur, contre les démons des heures. 
+- Dofus Monster (12 tomes), collectif.   
+A chaque tome est raconté l'histoire d'un monstre de l'univers de Dofus (Chêne Mou, Dragon Cochon, Moon , etc...) 
+- Ogrest (3 tomes, le quatrième doit sortir en 2020, 5 sont prévus au total), de Mig.   
+Raconte l'histoire d'Ogrest, parle de la Fratrie des Oubliés et tout et tout. 
 #### Romans (Bayard Jeunesse) 
 - Dofus : Aux trésors de Kerubim, de Christophe Lambert (5 tomes)
-- Dofus, de Halden et Tot (6 tomes) Raconte l'histoire de chacun des Dofus Primordiaux
+- Dofus, de Halden et Tot (6 tomes)   
+Raconte l'histoire de chacun des Dofus Primordiaux
 - Dofus, le Guide du Krosmoz
 
 ### [Ère du Wakfu](http://www.ankama-editions.com/fr/univers/wakfu) :
@@ -123,8 +129,12 @@ Voici la liste des mangas/BD/comics en lien avec l'univers du Krosmoz :
 ####Mangas 
 - Wakfu (5 tomes sont sortis), l'histoire se situe après la saison 2 mais avant les 3 OAV. 
 ####Les Comics 
-- Boufbowl (4 comics sortis en 2011) de Grelin et Maxe L'Hermenier. Il raconte les débuts de Kriss la Krasse au sport du Boufbowl, dont il deviendra une légende.
-- Remington (12 comics parus entre 2010 et 2012). Il raconte les débuts des frères Remington et Grany Smisse, qui deviendront deux des plus grands Roublards du Monde des Douze. L'histoire se découpe en 3 arcs de chacun 4 comics. Le deuxième arc raconte l'histoire du Dofus Blanc (Dofus Primordial). 
-- Maskemane (12 comics parus entre 2012 et 2013) Raconte l'histoire de Maskemane, le dernier zobal qui est traqué pour ses masques. 
+- Boufbowl (4 comics sortis en 2011) de Grelin et Maxe L'Hermenier.   
+Il raconte les débuts de Kriss la Krasse au sport du Boufbowl, dont il deviendra une légende.
+- Remington (12 comics parus entre 2010 et 2012).    
+Il raconte les débuts des frères Remington et Grany Smisse, qui deviendront deux des plus grands Roublards du Monde des Douze. L'histoire se découpe en 3 arcs de chacun 4 comics. Le deuxième arc raconte l'histoire du Dofus Blanc (Dofus Primordial). 
+- Maskemane (12 comics parus entre 2012 et 2013)    
+Raconte l'histoire de Maskemane, le dernier zobal qui est traqué pour ses masques. 
 #### Romans (Bayard Jeunesse) 
-- Wakfu (9 tomes parus entre 2013 et 2015) Tout comme la BD Wakfu, ces 9 tomes racontent des aventures de la Confrérie du Tofu entre les épisodes 13 et 14 de la saison 1 de Wakfu.
+- Wakfu (9 tomes parus entre 2013 et 2015)    
+Tout comme la BD Wakfu, ces 9 tomes racontent des aventures de la Confrérie du Tofu entre les épisodes 13 et 14 de la saison 1 de Wakfu.
