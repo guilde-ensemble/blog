@@ -1,0 +1,240 @@
+Bonjour,
+
+Aujourd'hui, je vais aborder toutes les informations disponibles liées à la série *Welsh & Shedar* qu'Ankama avait commencé à développer mais qu'aucune chaîne de télévision n'a voulu acheter. 
+Pour la petite histoire c'est un article que j'avais commencé à écrire en juin 2018 et que je n'avais finalement jamais terminé. Vaut mieux tard que jamais ;)
+
+
+# Genèse du projet et informations techniques
+Dans un post de décembre 2014 sur le [forum du site Catsuka](https://www.catsuka.com/interf/forum/viewtopic.php?p=401923#p401923), 
+Tot évoquait la genèse du projet et donnait quelques informations techniques.  
+
+Les premiers travaux concernant la série datent de 2011-2012 (après la saison 2 de Wakfu donc). 
+Il devait s'agir d'une série sous la forme d'un feuilleton de 26 épisodes de 26 minutes.  
+
+A l'époque, France Télévision ne souhaitait pas d'une série sous la forme d'un feuilleton, c'est pourquoi la série *Dofus : Aux trésors de Kérubim* a vu le jour à la place de *Welsh & Shedar*.
+  
+Dans son post, Tot explique que plusieurs styles graphiques ont été testé. 
+Un premier a fait l’objet d’un épisode. Il a été jugé non concluant et avait été travaillé à l'époque par l'équipe Japonaise d'Ankama (l'équipe ayant réalisé les épisodes spéciaux *Noximilien l'horloger* et *Ogrest, la légende*).
+Tot raconte également que c'est suite à l’impossibilité de bien travailler ensemble qu'ils ont décidé de fermer le studio là-bas. 
+Cela a d'ailleurs permis à certains de ses anciens employés japonais de débaucher quelques-uns de ses animateurs flash et de s'approprier la pipeline d'animation d'Ankama pour leurs productions.  
+
+Quelques recherches dans ce premier style ont été dévoilé par [Mondocanard sur son blog](https://mondocanard.blogspot.fr/2011/08/dofus-anime-project.html) en 2011 :  
+https://mondocanard.tumblr.com/post/92230371853/dofus-anime-project
+https://mondocanard.blogspot.fr/2011/08/dofus-anime-project.html
+
+
+
+
+Le style finalement adopté est celui du trailer : https://www.youtube.com/watch?v=PK5q0oGRzTU
+Si ce n’est pas déjà fait, je vous invite à le visionner avant de poursuivre la lecture de ce post.
+<br><br><br>
+
+# L'histoire
+Décortiquons un peu ce trailer afin d’essayer d’en apprendre un peu plus sur l’histoire.  
+
+Dans la description de la vidéo YouTube du trailer, on peut lire la phrase suivante :   
+« L’histoire est celle de Welsh, un jeune garçon contraint de se battre pour un héritage dont il ne soupçonnait pas l’existence : celui du trône du Royaume de Bonta. »  
+
+On connait ainsi la trame principale de l’histoire.  
+
+
+Dans le trailer on peut aussi voir à la 38ème seconde Khan et Joris du film *Dofus, livre 1 : Julith*.  
+ 
+[IMAGE A METTRE] 
+ 
+En haut à gauche on peut distinguer l’œil du shushu Luis visible dans la série *Dofus : Aux trésors de Kérubim* et dans le film *Dofus, livre 1 : Julith*.
+Ces deux projets d’animations ayant été réalisé après le projet *Welsh & Shedar* !  
+(De même, vous remarquerez que le pull vert de Welsh est semblable à celui de Kerubim : cela a-t-il une importance dans l’histoire où est-ce un simple « recyclage » de la part d’Ankama ?)  
+
+
+On peut voir sur l’image que Khan tient un genre de bâton. On le revoit d’ailleurs à la fin du trailer.  
+ 
+[IMAGE A METTRE]  
+
+Il s’agit en réalité d’une canne à pêche. Celle-ci semble avoir une grande importance puisque dans le tome 1 du manga Wakfu (dont l’histoire se déroule entre la saison 2 de Wakfu et les 3 OAV), Joris la donne en cadeau à Yugo et Adamaï :
+  
+[IMAGE A METTRE]  
+
+Khan a gravé son nom sur la canne à pêche.  
+
+On peut supposer que Khan et Joris vont aider Welsh à devenir roi de Bonta.  
+Et que c’est probablement suite à cette aide que Joris va devenir ambassadeur du roi de Bonta et le rester jusqu’à l’époque de *Wakfu la série*.  
+  
+[IMAGE A METTRE]  
+
+ 
+
+Pour continuer avec Joris, celui-ci a plus de 60 ans lors de la série *Welsh & Shedar* d’après les informations données par Ankama lors de la [promotion du film Dofus, livre 1 : Julith](https://www.dofus.com/fr/forum/1561-courts-longs-metrages/2055330-joris-part-1).
+ 
+[IMAGE A METTRE] 
+Les personnes ayant vu le film DOFUS, savent pourquoi il vieillit très lentement.
+
+
+Pour en savoir plus sur l’histoire, il est intéressant de noter ce que dit également Tot dans le post du forum du site Catsuka évoqué précédemment. Tot y explique que "nous avions une ambition énorme sur cet univers et l'idée était de travailler une trame sur plusieurs 10 ene d'années. Cette série devait faire suite à la trilogie de films DOFUS et se raccorder, au travers de certains personnages immortels, à la série WAKFU." 
+
+Deux points sont importants ici : le lien avec les films DOFUS, et le lien avec la série WAKFU. 
+
+Commençons par le premier point : le lien avec les films DOFUS. Etant donné que tous les films DOFUS ne sont pas sortis, il nous manque une grande partie de l’histoire. Les informations que je vais donner ici ne sont de l’ordre que de la spéculation.
+
+Récemment, Xavier Houssin, alias Xa, [a dévoilé sur Twitter](https://twitter.com/XaGueuzav/status/1237674336179433472) une recherche graphique pour l’affiche du film DOFUS : 
+
+[IMAGE A METTRE] 
+
+Il s’agit d’une affiche pour la première version du film. En effet Tot avait d’abord écrit un premier scénario, qu’il a ensuite retravaillé pour aboutir au film DOFUS sorti en 2016 que nous connaissons.
+
+Dans cette première version, Lilotte est en bas à gauche sur le screen ci-dessus. Kerubim est en bas à droite. Les parents de Joris en haut à droite et Khan en haut à gauche. 
+
+Lilotte et Kerubim ont alors une apparence humaine. Ceci est à mettre en parallèle avec un pilote du film DOFUS disponible sur YouTube : https://www.youtube.com/watch?v=1SkWm0gan20
+
+Le chat visible sur l’affiche n’est pas du tout commode dans le pilote. Le marteau que tient Joris sur l’affiche appartient à Kérubim dans le pilote.
+
+Etant donné que Joris n’a pas ce marteau dans le film mais qu’il l’a dans la série Wakfu, on peut donc se demander comment cette arme entre en sa possession : dans les films de la trilogie DOFUS qui ne sont pas parus ? dans la série Welsh & Shedar ?
+
+Xa indique dans les réponses à son tweet que dans la première version du film, il n’y avait pas d’Ecadimension et que Khan n’était pas un boufbowler :
+
+[IMAGE A METTRE] 
+ 
+
+
+D’autres visuels que Xa a dévoilé en lien avec cette première version du film : https://twitter.com/XaGueuzav/status/1237674336179433472
+
+[IMAGE A METTRE] 
+
+Mais pourquoi donc parler de cette affiche alors que c’est une version abandonnée du film DOFUS ? Quelle est le lien avec la série *Welsh et Shedar* ?
+Comme dit précédemment, on peut voir Joris sur le trailer dévoilé par Ankama… mais aussi Khan ! 
+Et c’est ce qui nous intéresse sur l’affiche de Xa. Khan tient une épée, ce qui diffère de la Khan à pêche (je ne pouvais plus me retenir, il fallait que je fasse ce jeu de mot) visible dans le trailer. Quel est donc l’intérêt de parler de cette affiche, si là encore ce n’est pas un lien avec la série *Welsh & Shedar* ?
+
+Khan ne tient pas seulement une épée sur l’affiche, il est aussi accompagné d’un oiseau. Et cet oiseau nous l’avons déjà vu ailleurs !
+
+Dans l’interview de Kuri dans le [Gamakna#2](https://www.ankama.com/gamakna#project/3f0bfabc-7bfc-495a-a6e8-4a62ebde4c44/view/gamakna2-fr/article/wakfu-serie-kuri_gmk2).
+ 
+[IMAGE A METTRE] 
+
+Même yeux rouges et même cou !
+
+
+Deux options sont alors envisageables :
+-	étant donné que cette scène est déjà prête, il est fort possible que dans les films de la trilogie DOFUS non sortis, Khan rencontre ce volatile et en fait son compagnon d’aventure, jusque dans la série Welsh & Shedar
+-	la première version du film ayant été abandonnée, cet oiseau disparaît également dans la série Welsh & Shedar, si celle-ci sort un jour (je reviens sur ce point plus bas dans l’article).
+
+Je penche tout de même pour la première option, puisque cet oiseau est visible au côté de Khan dans le *MMO WAKFU*.
+Khan le décrit comme son second compagnon d’aventure :
+  
+[IMAGE A METTRE] 
+
+
+L’interview de Kuri nous apprend également d’autres informations concernant la série *Welsh & Shedar* : « En 2011, Tot m'a proposé de coréaliser les quatre derniers épisodes de la saison 2 avec Arnaud. Ça ne se refuse pas ! J'ai plus tard repris ce poste de coréalisateur en 2012 pour le pilote de Welsh & Shedar. C'est dans cette série qu'est né Khan Karkass, futur héros du long métrage DOFUS. À ce moment-là, il est vieux, ça se passe bien après la fin de sa carrière de boufbowleur. **Il y a un super épisode où il rencontre Goultard**, je n'en dit pas plus au cas où on aurait la chance de faire cette série. »
+Goultard doit donc apparaître dans la série *Welsh & Shedar* ! 
+
+Ceci me permet d’aborder le deuxième point de la phrase de Tot : « Cette série devait faire suite à la trilogie de films DOFUS et se raccorder, au travers de certains personnages immortels, à la série WAKFU. »
+
+Comme personnages immortels visibles dans la série Welsh & Shedar puis des siècles plus tard dans la série Wakfu, nous avons donc Goultard et Joris (Joris n’est pas tout à fait immortel mais vit extrêmement longtemps).
+
+Au moins un troisième immortel est présent : **Sipho**. Ce dragon, membre de la Fratrie des Oubliés, est présent à plusieurs reprises dans le trailer sous la forme d’un mulou :
+   
+[IMAGE A METTRE] 
+
+Ceci est à mettre en lien avec ce qui est dit dans l’Artbook de la saison 3 de Wakfu :
+  
+[IMAGE A METTRE] 
+
+Pour sa forme non transformée, on peut de nouveau se référer à l’interview de Kuri, qui nous présente le design de Sipho pour les différentes séries : 
+  
+[IMAGE A METTRE] 
+
+Là encore, on peut se référer à l’artbook de la saison 3 de Wakfu : 
+
+  
+[IMAGE A METTRE] 
+
+So much teasing !!!
+
+
+Pour terminer avec Sipho, je vous invite à regarder une séquence de l’épisode 1 des OAV de Wakfu :  
+  
+[LIEN A METTRE] 
+
+Cet extrait parle des ruines du Royaume des Vents, un endroit abandonné depuis des siècles où vivait un certain Sipho !
+
+Vous l’aurez compris, ce Royaume des Vents est un des endroits où se déroule l’action de la série Welsh & Shedar.
+
+Plus particulièrement, au sein de ce Royaume se trouve la tour dite de Zabel, évoquée par Kuri dans son interview : 
+  
+[IMAGE A METTRE] 
+
+Davantage d’informations concernant cette tour nous est donné dans l’artbook de la saison 3 de Wakfu :
+
+  
+[IMAGE A METTRE] 
+
+On y apprend que Zabel est le roi tyrannique de la Cité des Vents de la série Welsh & Shedar.
+
+<br><br><br>
+
+
+
+Voici tout ce que j’ai pu recueillir comme informations concernant l’histoire. Beaucoup de choses restent encore inconnues :
+-	On sait qui est Welsh, mais qui est Shedar ? L’écaflip que l’accompagne dans plusieurs scènes du trailer ?
+  
+[IMAGE A METTRE] 
+
+-	A quoi ressemble Zabel ?
+-	Qui est ce personnage ?
+  
+[IMAGE A METTRE] 
+
+-	D’où viennent tous ces yeux dans le ciel ?
+   
+[IMAGE A METTRE] 
+
+
+Je ne sais pas pour vous, mais tout ceci me hype énormément et me fait désespérément envie de voir un jour cette série sur nos écrans.
+
+
+# Welsh & Shedar sur nos écrans ?
+Je vais terminer cet article par un point concernant les informations disponibles concernant une possible diffusion de la série.
+
+Comme dit au début de l’article, France Télévision ne semble pas être intéressé par cette série.
+
+Ankama cherche depuis d’autres diffuseurs potentiels. Cela se fait via des salons, en témoigne cette photo d’Ankama Press datant de juin 2018 lors du festival d’Annecy où l’on peut voir un poster de la série :
+
+  
+[IMAGE A METTRE] 
+[Source](https://twitter.com/AnkamaPress/status/1006457627033980929)
+
+Sans grand succès visiblement.
+
+
+La même année, Tot annoncé chercher des partenaires par forcément français afin d’essayer de trouver un diffuseur :
+
+[IMAGE A METTRE] 
+
+Là encore sans nouvelles depuis.
+
+<br><br>
+Savoir que cette série ne trouve pas de diffuseur (et ça depuis 2012 !) est un crève-cœur. J’espère vraiment qu’on pourra la voir un jour étant donné son énorme potentiel, tous les liens qu’elle tisse avec les autres projets d’animations d’Ankama et tout le travail qui a déjà été effectué.
+
+En effet, en 2017, Fabrice Nzinizi (directeur artistique de la saison 3 de Wakfu) annonçait que le travail préliminaire sur la série est déjà terminé :
+
+[IMAGE A METTRE] 
+
+<br><br><br>
+
+J'en ai terminé avec cet article.
+J'espère qu'il vous a plu. 
+J vous laisse avec quelques visuels concernant la conception du trailer, ainsi que quelques images inédites : :
+https://www.behance.net/gallery/55407417/Welsh-Shedar-projet-Ankama-2012
+
+<br>
+
+Krades
+
+
+ 
+
+
+
+
+
+
+ 
