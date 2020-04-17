@@ -7,7 +7,7 @@ permalink: /krosmoz/
 
 
 ## Qu’est-ce que le Krosmoz ?
-Le site [https://dofus-rp.fandom.com/fr/wiki/Wiki_Role_Play_Dofus](https://dofus-rp.fandom.com/fr/wiki/Wiki_Role_Play_Dofus) en donne une très bonne [définition](https://dofus-rp.fandom.com/fr/wiki/Krosmoz) :  
+Le site [Dofus-rp](https://dofus-rp.fandom.com/fr/wiki/Wiki_Role_Play_Dofus) en donne une très bonne [définition](https://dofus-rp.fandom.com/fr/wiki/Krosmoz) :  
 
 Le Krosmoz est le nom de l'univers dont fait partie le [monde des Douze](https://dofus-rp.fandom.com/fr/wiki/Monde_des_Douze). Il fut créé par la première danse de la [déesse Eliatrope](https://dofus-rp.fandom.com/fr/wiki/D%C3%A9esse_%C3%A9liatrope) et du [Grand Dragon](https://dofus-rp.fandom.com/fr/wiki/Grand_dragon). Il est composé de plusieurs plans superposés les uns sur les autres : 
 
