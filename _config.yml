@@ -67,6 +67,40 @@ author:
       
       
 
+gallery:
+  - url: /assets/images/W&S/W&S mondocanard marché 1.png
+    image_path: /assets/images/W&S/W&S mondocanard marché 1.png
+    alt: "Weslh & Shedar - le marché"
+    title: "Le marché"
+  - url: /assets/images/W&S/W&S mondocanard marché 2.png
+    image_path: /assets/images/W&S/W&S mondocanard marché 2.png
+    alt: "Weslh & Shedar - le marché"
+    title: "Le marché"
+  - url: /assets/images/W&S/W&S mondocanard marché 3.png
+    image_path: /assets/images/W&S/W&S mondocanard marché 3.png
+    alt: "Weslh & Shedar - le marché"
+    title: "Le marché"
+  - url: /assets/images/W&S/W&S mondocanard marché 4.png
+    image_path: /assets/images/W&S/W&S mondocanard marché 4.png
+    alt: "Weslh & Shedar - le marché"
+    title: "Le marché"
+  - url: /assets/images/W&S/W&S mondocanard marché 5.png
+    image_path: /assets/images/W&S/W&S mondocanard marché 5.png
+    alt: "Weslh & Shedar - le marché"
+    title: "Le marché"
+  - url: /assets/images/W&S/W&S mondocanard marché 6.png
+    image_path: /assets/images/W&S/W&S mondocanard marché 6.png
+    alt: "Weslh & Shedar - le marché"
+    title: "Le marché"
+  - url: /assets/images/W&S/W&S mondocanard marché 7.png
+    image_path: /assets/images/W&S/W&S mondocanard marché 7.png
+    alt: "Weslh & Shedar - le marché"
+    title: "Le marché"
+  - url: /assets/images/W&S/W&S mondocanard marché 8.png
+    image_path: /assets/images/W&S/W&S mondocanard marché 8.png
+    alt: "Weslh & Shedar - le marché"
+    title: "Le marché"
+    
 
 defaults:
   # _posts
