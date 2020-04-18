@@ -131,8 +131,9 @@ Raconte l'histoire de chacun des Dofus Primordiaux
   - Tome 4 à 6 : Tangomango (sortis entre 2013 et 2014)
   
 #### Mangas 
-- Wakfu (5 tomes sont sortis), l'histoire se situe après la saison 2 mais avant les 3 OAV. 
-####Les Comics 
+- Wakfu (5 tomes sont sortis), l'histoire se situe après la saison 2 mais avant les 3 OAV.
+
+#### Les Comics 
 - Boufbowl (4 comics sortis en 2011) de Grelin et Maxe L'Hermenier.   
 Il raconte les débuts de Kriss la Krasse au sport du Boufbowl, dont il deviendra une légende.
 - Remington (12 comics parus entre 2010 et 2012).    
