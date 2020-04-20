@@ -7,7 +7,7 @@ tags:
   - Wakfu saison 4 série
 excerpt : "Animation"
 header :
-    overlay_image: "/assets/images/W&S/Blog.png"
+    overlay_image: "/assets/images/Wakfu_saison_4/Blog.png"
 toc: true
 toc_sticky: true
 author_profile: true
@@ -36,7 +36,7 @@ En effet je me contente d’apporter des informations complémentaires à certai
 
 
 # 1)	1’32’’ : « Spoiler Alert »
-Je ne vais pas m’attarder sur cette partie. Je reprends quelques éléments de cette partie dans le point *XXX* de l’article.
+Je ne vais pas m’attarder sur cette partie. Je reprends quelques éléments de cette partie plus bas dans l’article.
 <br><br>
 
 
@@ -47,9 +47,7 @@ ToT a annoncé qu'il travaille avec Sonia (en design sur Wakfu) sur une bande de
 Cette BD doit permettre d'expliquer quelques interrogations soulevées par la saison 3 de Wakfu : comment a t'il récupéré l'Eliacube, son début de relation avec Echo et la disparition de ses derniers frères.
 A savoir qu'initialement, l'objectif était de traiter ce sujet sous la forme d'un épisode spécial (comme cela avait été le cas avec l'épisode spécial sur Nox à la fin de la saison 1 ou celui d’Ogrest à la fin de la saison 2) mais étant donné qu'un tel épisode nécessite un budget conséquent, il a été privilégié de proposer cette histoire sous la forme de livre.
 
-**IMAGE A METTRE**  
-
-Image provenant du blog de Tot
+{% include figure image_path="/assets/images/Wakfu_saison_4/Oropo BD.png" alt="Oropo BD"%}
 Echo et Oropo lorsqu'ils étaient plus jeunes (avant l'époque du MMO DOFUS au vu de la longueur des cheveux de Echo ??)
 
 
@@ -66,25 +64,30 @@ Pour l’explication du chaos d’Ogrest il faut lire le manga Ogrest de Mig (j�
 Tot donne le nom de quelques-uns des Eliotropes accompagnant Oropo sur l’ïle d’Oma : **Bouillon** et **les jumeaux Sidaire**.
 Tot avait montré une image de Sidaire sur son blog en 2017 : 
  
-**IMAGE A METTRE**  
+{% include figure image_path="/assets/images/Wakfu_saison_4/Sidaire blog tot.png" alt="Sidaire blog Tot"%} 
 
 C'est une image extrêmement intéressante. En effet, lors du Toulouse Game Show de novembre 2016, Ankama avait présenté pour la première fois le projet du jeu Waven (Dofus 3 à l'époque).<br>
 Lors de cette présentation, des images avaient été projeté afin d'illustrer les différents thèmes et objectifs du jeu (zones, monstres, personnages, etc...).<br>
 Une partie de cette présentation était consacré à l'histoire du jeu, et l'image de Sidaire, mais aussi d'autres Eliotropes, avaient été projeté :
 
-**IMAGE A METTRE**  
+{% include figure image_path="/assets/images/Wakfu_saison_4/Sidaire TGS 2016.png" alt="Sidaire TGS 2016"%} 
+
 On retrouve exactement la même image de Sidaire que Tot à montrer sur son blog.<br>
 D’autres images ont été montré, notamment Bouillon mentionné par Tot dans l’interview : 
 
-**IMAGE A METTRE**  
+{% include figure image_path="/assets/images/Wakfu_saison_4/Bouillon TGS 2016.png" alt="Bouillon TGS 2016"%} 
+
 
 Et d’autres Eliotropes : 
 
-**IMAGE A METTRE**  
+{% include figure image_path="/assets/images/Wakfu_saison_4/Ripulse TGS 2016.png" alt="Ripulse TGS 2016"%} 
 Fortement inspiré du Devin d’Uderzo dans l’album d’Astérix du même nom, non ?
+<br>
 
- **IMAGE A METTRE**  
- 
+{% include figure image_path="/assets/images/Wakfu_saison_4/Atone TGS 2016.png" alt="Atone TGS 2016"%} 
+<br>
+{% include figure image_path="/assets/images/Wakfu_saison_4/Inconnu TGS 2016.png" alt="Inconnu TGS 2016"%} 
+<br>
 
 Ces Eliotropes sont intimement liés au background de Waven et lors de la conférence, il a même été expliqué que ces personnages sont prévus pour être des boss de zones du jeu.<br>
 
@@ -102,7 +105,8 @@ Bref c'est un point qui est encore extrêmement confus, mais qui permet de faire
 <br><br>
 Pour terminer sur cette partie, une autre image que Tot avait dévoilé sur son blog lorsqu’il avait évoqué la BD concernant Oropo :
 
- **IMAGE A METTRE**  
+{% include figure image_path="/assets/images/Wakfu_saison_4/Chibi blog tot.png" alt="Grougaloragran"%} 
+
  
 Sur cette image on distingue clairement Grougaloragran sous sa forme humaine comme on a déjà pu la voir dans la saison 1 de Wakfu. Ce qui fait sens avec ce que dit Tot dans l’interview.
 A ses côtés se tient un personnage adulte affilié aux Eliatropes (cornes de Wakfu sur la tête) et qui manie un marteau de Wakfu. On peut voir aussi que le Wakfu du marteau "fusionne" avec les flemmes de Grougaloragran. Qui est donc ce personnage ?
@@ -136,7 +140,8 @@ Devant le manque de financement, Tot réfléchit fortement à réaliser la secon
 Cela permettrait d’expliquer l’état du monde dans le jeu Waven et de poser le background du jeu pour sa sortie afin que les joueurs puissent tout comprendre. L'objectif d'Ankama étant de faire converger les deux projets.
 Des essais ont été réalisé avec [Cynthia Leman](https://twitter.com/Cathianedraws) qui a dessiné le tome 5 du manga Wakfu.
  
-  **IMAGE A METTRE**  
+{% include figure image_path="/assets/images/Wakfu_saison_4/Manga wakfu tome 5.png" alt="Couverture Manga Wakfu tome 5"%} 
+
 
 Tot précise que ça serait un dessin assez simple, le but étant surtout de raconter l’histoire.
 Lorsqu’Ankama aura les crédits pour la suite de Wakfu, ils réaliseraient alors cette suite.
@@ -155,14 +160,18 @@ Mais surtout, avant de pouvoir réaliser cette saison, il faut trouver les fonds
 Dans l’interview d’Iro Sef, Tot indique qu’un épisode coute environ 250.000€. Ce qui fait que pour les 13 épisodes de cette saison 4, il faut compter environ 3.500.000€ (13*250.000 + d’éventuels dépassements). 
 Sur cette somme, Tot annonce dans l’interview qu’il manquerait environ 1.000.000€. Pour essayer de récolter cette somme, Ankama va lancer un kickstarter. En témoigne ces tweets datant de cette année 2020 :
  
- **IMAGE A METTRE**  
+{% include figure image_path="/assets/images/Wakfu_saison_4/Manga wakfu tome 5.png" alt="Couverture Manga Wakfu tome 5"%} 
+
  
 Nous devrions ainsi avoir des nouvelles concernant cette saison 4 d’ici l’été, ou un peut-être un peu plus tard étant donné l’impact du COVID-19.
-
-Je conclurais cet article en évoquant un tweet de Tot paru lors de la période de confinement :
-https://twitter.com/Totankama/status/1241692896530743303
- 
+<br><br>
+  
+Je conclurais cet article en évoquant un tweet de Tot paru lors de la période de confinement : [https://twitter.com/Totankama/status/1241692896530743303](https://twitter.com/Totankama/status/1241692896530743303)
+<br>
 Tot souhaite mettre à profit la période de confinement afin de développer les bibles graphiques et littéraires de la saison 4 en incluant les fans dans leur rélisation.
+<br>
+
+{% include figure image_path="/assets/images/Wakfu_saison_4/Elely saison 4.png" alt="Elely saison 4"%} 
 
 
 <br><br><br>
