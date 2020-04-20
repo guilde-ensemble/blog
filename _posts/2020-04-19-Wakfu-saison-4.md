@@ -31,8 +31,10 @@ Elle se divise en plusieurs parties :
 - 10’18’’ : Armand nouveau roi Sadida ?
 - 11’33’’ : Un autre format pour la saison 4 ?
 - 12’57’’ : l’après saison 4 ?
+<br>
 Si ce n’est pas déjà fait, je vous invite à regarder cette vidéo avant de lire cet article.
 En effet je me contente d’apporter des informations complémentaires à certains points de la vidéo afin d’illustrer les propos de Tot mais n’apporte rien fondamentalement de nouveau.
+<br><br>
 
 
 # 1)	1’32’’ : « Spoiler Alert »
@@ -44,7 +46,8 @@ Je ne vais pas m’attarder sur cette partie. Je reprends quelques éléments de
 C’est LA partie qui a attiré le plus mon attention puisqu’elle explique comment Nox a récupéré l’Eliacube !  
 <br>
 ToT a annoncé qu'il travaille avec Sonia (en design sur Wakfu) sur une bande dessinée racontant une partie de la vie d'Oropo. 
-Cette BD doit permettre d'expliquer quelques interrogations soulevées par la saison 3 de Wakfu : comment a t'il récupéré l'Eliacube, son début de relation avec Echo et la disparition de ses derniers frères.
+Cette BD doit permettre d'expliquer quelques interrogations soulevées par la saison 3 de Wakfu : comment a t'il récupéré l'Eliacube, son début de relation avec Echo et la disparition de ses derniers frères.<br>
+
 A savoir qu'initialement, l'objectif était de traiter ce sujet sous la forme d'un épisode spécial (comme cela avait été le cas avec l'épisode spécial sur Nox à la fin de la saison 1 ou celui d’Ogrest à la fin de la saison 2) mais étant donné qu'un tel épisode nécessite un budget conséquent, il a été privilégié de proposer cette histoire sous la forme de livre.
 
 {% include figure image_path="/assets/images/Wakfu_saison_4/Oropo BD.png" alt="Oropo BD"%}
@@ -99,6 +102,7 @@ Se pose alors plusieurs questions :
 Vu qu'en novembre 2016, Waven n'était encore qu'un projet, il se peut aussi que ces personnages n'apparaissent finalement pas dans le jeu, mais que dans la BD sur Oropo puisque celle-ci doit nous en dire plus sur la disparition des derniers Eliotropes.<br>
 Dans l’interview, Tot évoque pour le cas d’Evangelyne avoir pensé à une histoire (la raison pour laquelle elle a été placé chez les Sadidas) qui cependant ne lui plait plus à présent.
 Il en est peut-être de même pour certains de ces Eliotropes : une idée de Tot datant (au moins de 2016) que nous ne verrons peut-être jamais :/
+
 <br>
 Bref c'est un point qui est encore extrêmement confus, mais qui permet de faire beaucoup d'hypothèses / théories et de spéculations 😊
 
@@ -151,8 +155,7 @@ Lorsqu’Ankama aura les crédits pour la suite de Wakfu, ils réaliseraient alo
 Tot précise que cette saison 3 partie 2 devait être la fin de la série, puisqu’il avait envisagé Wakfu comme une trilogie (à l’instar des films Dofus).
 Néanmoins Tot explique qu’il n’est pas forcément contre une suite et qu’il avait imaginé que cela se focaliserait sur Elely et Flopin accompagné de leur frère Pain surcheaté dont ils devraient calmer les sautes d’humeur. 
 Ceci ayant été fait dans les Indestructibles 2, il a laissé tomber l’idée.
-
-
+<br><br>
 
 # 8) A quand une diffusion de la saison 4 ? 
 Avant de pouvoir la diffuser, il faut la réaliser. ToT a annoncé sur son BLOG qu'il faudrait patienter au moins 2 ans entre le moment où la saison est commandée par un ou des diffuseurs et le moment où on pourrait la voir sur nos écrans.
@@ -160,7 +163,7 @@ Mais surtout, avant de pouvoir réaliser cette saison, il faut trouver les fonds
 Dans l’interview d’Iro Sef, Tot indique qu’un épisode coute environ 250.000€. Ce qui fait que pour les 13 épisodes de cette saison 4, il faut compter environ 3.500.000€ (13*250.000 + d’éventuels dépassements). 
 Sur cette somme, Tot annonce dans l’interview qu’il manquerait environ 1.000.000€. Pour essayer de récolter cette somme, Ankama va lancer un kickstarter. En témoigne ces tweets datant de cette année 2020 :
  
-{% include figure image_path="/assets/images/Wakfu_saison_4/Manga wakfu tome 5.png" alt="Couverture Manga Wakfu tome 5"%} 
+{% include figure image_path="/assets/images/Wakfu_saison_4/Wakfu saison 4 kickstarter.png" alt="Wakfu saison 4 kickstarter"%} 
 
  
 Nous devrions ainsi avoir des nouvelles concernant cette saison 4 d’ici l’été, ou un peut-être un peu plus tard étant donné l’impact du COVID-19.
