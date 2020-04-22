@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "fr"
-title: Krades
+title: Guilde Ensemble
 email:
-description: "Blog de Krades de la Guilde Ensemble"
+description: "Blog de la Guilde Ensemble"
 # google_site_verification: 
 
 minimal_mistakes_skin: default
