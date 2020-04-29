@@ -32,6 +32,8 @@ Elle se divise en plusieurs parties :
 - 11’33’’ : Un autre format pour la saison 4 ?
 - 12’57’’ : l’après saison 4 ?
 <br>
+<br>
+
 Si ce n’est pas déjà fait, je vous invite à regarder cette vidéo avant de lire cet article.
 En effet je me contente d’apporter des informations complémentaires à certains points de la vidéo afin d’illustrer les propos de Tot mais n’apporte rien fondamentalement de nouveau.
 <br><br>
