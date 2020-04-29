@@ -160,9 +160,9 @@ Ceci ayant été fait dans les Indestructibles 2, il a laissé tomber l’idée.
 <br><br>
 
 # 8) A quand une diffusion de la saison 4 ? 
-Avant de pouvoir la diffuser, il faut la réaliser. ToT a annoncé sur son BLOG qu'il faudrait patienter au moins 2 ans entre le moment où la saison est commandée par un ou des diffuseurs et le moment où on pourrait la voir sur nos écrans.
+Avant de pouvoir la diffuser, il faut la réaliser. ToT a annoncé sur son blog qu'il faudrait patienter au moins 2 ans entre le moment où la saison est commandée par un ou des diffuseurs et le moment où on pourrait la voir sur nos écrans.
 Mais surtout, avant de pouvoir réaliser cette saison, il faut trouver les fonds pour la produire. 
-Dans l’interview d’Iro Sef, Tot indique qu’un épisode coute environ 250.000€. Ce qui fait que pour les 13 épisodes de cette saison 4, il faut compter environ 3.500.000€ (13*250.000 + d’éventuels dépassements). 
+Dans l’interview d’Iro Sef, Tot indique qu’un épisode coute environ 250.000€. Ce qui fait que pour les 13 épisodes de cette saison 4, il faut compter environ 3.500.000€ (13x250.000 + d’éventuels dépassements). 
 Sur cette somme, Tot annonce dans l’interview qu’il manquerait environ 1.000.000€. Pour essayer de récolter cette somme, Ankama va lancer un kickstarter. En témoigne ces tweets datant de cette année 2020 :
  
 {% include figure image_path="/assets/images/Wakfu_saison_4/Wakfu saison 4 kickstarter.png" alt="Wakfu saison 4 kickstarter"%} 
