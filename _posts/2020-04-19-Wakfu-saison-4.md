@@ -84,7 +84,6 @@ D’autres images ont été montré, notamment Bouillon mentionné par Tot dans 
 
 
 Et d’autres Eliotropes : 
-
 {% include figure image_path="/assets/images/Wakfu_saison_4/Ripulse TGS 2016.png" alt="Ripulse TGS 2016"%} 
 Fortement inspiré du Devin d’Uderzo dans l’album d’Astérix du même nom, non ?
 <br>
@@ -171,12 +170,15 @@ Sur cette somme, Tot annonce dans l’interview qu’il manquerait environ 1.000
 Nous devrions ainsi avoir des nouvelles concernant cette saison 4 d’ici l’été, ou un peut-être un peu plus tard étant donné l’impact du COVID-19.
 <br><br>
   
-Je conclurais cet article en évoquant des tweets de Tot parus lors de la période de confinement.
+Je conclurais cet article en évoquant des tweets de Tot parus lors de la période de confinement.<br>
 Dans le [premier](https://twitter.com/Totankama/status/1241692896530743303), Tot indique qu'il souhaite mettre à profit la période de confinement afin de développer les bibles graphiques et littéraires de la saison 4 en incluant les fans dans leur rélisation.
 <br>
 {% include figure image_path="/assets/images/Wakfu_saison_4/Elely saison 4.png" alt="Elely saison 4"%} 
 <br>
 Dans le [second](https://twitter.com/Totankama/status/1253637704824360961/photo/1), il montre une image d'un personnage constitué entièrement de Wakfu.
+<br>
+{% include figure image_path="/assets/images/Wakfu_saison_4/personnage de wakfu.png" alt="Deesse Eliatrope ?"%} 
+<br>
 
 A ma connaissance, seule la déesse Eliatrope qui a crée le Krosmoz avec le Grand Dragon est représentée entièrement de Wakfu, comme on peut le voir dans la vidéo qui servait d'introduction au site du Krosmoz avant que celui-ci ne soit plus entretenu :
 
